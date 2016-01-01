@@ -1,0 +1,25 @@
+.snake-game {
+	display: block;
+    border: 1px solid #000;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.wrapper {
+	display: block;
+}
+
+body {
+	background-color: green;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 10px;
+	color: black;
+}
+
+button.start {
+	margin-top: 20px;
+	margin-left: 45%;
+}
